@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbb6775ce35f0f54d86769fbf5aa5ee8, type: 3}
+  m_Name: Note 2
+  m_EditorClassIdentifier: 
+  entry: 03
+  message: 'TrES-2b
+
+    TrES-2b is by far the most dark exoplanet found by humanity,
+    it only reflects 1% of the light , this may be because of the amount of titanium
+    oxide, potasium or vaporized sodium.
+
+
+    In 2054 a investigation proved that
+    the planet contained life, so the next year they sent a group of scientists to
+    determine what does the planet have inside it''s cortex.'
+  image: {fileID: 0}
